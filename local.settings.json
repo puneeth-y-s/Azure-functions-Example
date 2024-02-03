@@ -7,5 +7,8 @@
   },
   "Values": {
     "FUNCTIONS_WORKER_RUNTIME": "python"
+  },
+  "ConnectionStrings": {
+    "SqlConnectionString": "<sql-connection-string-starting-from-server-part-of-odbc>"
   }
 }
